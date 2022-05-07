@@ -1,7 +1,6 @@
 # FeedGet - Web
 
 Sistema destinado a ser Widget para Feedback do seu sistema.
-Aplicação desenvolvida no evento NLW Return.
 
 ## Funcionalidades
 
