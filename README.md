@@ -31,7 +31,7 @@ npm run dev
 ````
 
 ## Documentação
-* https://www.figma.com/file/POSQIKQdSiNn3MUQoCmbjO/Feedback-Widget-(Community)?node-id=10%3A1637
+* https://www.figma.com/community/file/1102912516166573468/Feedback-Widget
 
 ## Deploy
 * Vercel
