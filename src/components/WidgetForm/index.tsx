@@ -65,10 +65,10 @@ export function WidgetForm() {
         Feito com ♥ por{" "}
         <a
           className="underline underline-offset-2"
-          href="https://github.com/vitorhonna/nlw-return-impulse"
+          href="https://github.com/kayqueprado580"
           target="_blank"
         >
-          Vitor Honna
+          Kayque Prado
         </a>
       </footer>
     </div>
